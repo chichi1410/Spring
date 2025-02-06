@@ -1,0 +1,7 @@
+docker run -d --name mysql-server2 -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=mydb -e MYSQL_USER=springuser -e MYSQL_PASSWORD=springpass -p 3306:3306 mysql:8.0.41-debian
+check xem : docker ps	
+truy cap may ao : docker exec -it <idsql>bash 
+mysql -u root -p : xong r nhap mk
+
+
+//// use identity_service1   : vao database cos ten <iden....>

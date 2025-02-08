@@ -5,3 +5,8 @@ mysql -u root -p : xong r nhap mk
 
 
 //// use identity_service1   : vao database cos ten <iden....>
+
+// repository : kho luu tru
+// entity  : thuc the
+service : dich vu
+identity : danh tinhs )
